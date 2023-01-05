@@ -18,11 +18,11 @@
 
 ### Sending end
 
-> By MinraiBot Realizes that establishing socket sends. 
+> By Minrai Realizes that establishing socket sends. 
 >
 > In Plugin folder contains The Configuration File and You can Into that change parameter.(config.yml)
 >
-> ![](http://offsnow.top:40146/TestPhoto/3.png)
+> ![](C:\Users\Administrator\Music\SystemControl\测试图\3.png)
 
 
 
@@ -32,7 +32,7 @@
 >
 > When you ready start "Receving End.jar",It can down in operation folder creates a Configuration File.
 >
-> ![](http://offsnow.top:40146/TestPhoto/4.png)
+> ![](C:\Users\Administrator\Music\SystemControl\测试图\4.png)
 
 ### Funcation List
 
@@ -60,13 +60,23 @@
 
 ## TestResults
 
-![](http://offsnow.top:40146/TestPhoto/1.png)
+![1](C:\Users\Administrator\Music\SystemControl\测试图\1.png)
 
-![2](http://offsnow.top:40146/TestPhoto/2.png)
+![2](C:\Users\Administrator\Music\SystemControl\测试图\2.png)
 
-> When you send "[指令]System Command",Minrai Bot can help you automatic transfer to receiving end and it execute System Command.
+> When you send "[指令]SystemCommand",MinraiBot can help you automatic transfer to receiving end and it execute SystemCommand.
 >
 > -- 当你发送 [指令]系统指令 给机器人,它可以帮你自动传给接收端来执行系统指令。
+
+## How can I install it?
+
+> HopeSteward-1.0-jar will install to Minrai Plugin in Folder
+>
+> > You only double click "start.bat" this scirpt.
+>
+> Choice one you like folder,"SystemControl-1.0-jar" drops to folder.
+>
+> > execute System Command -> Java -jar SystemControl-1.0-jar
 
 ## Original intention
 
