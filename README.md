@@ -22,7 +22,7 @@
 >
 > In Plugin folder contains The Configuration File and You can Into that change parameter.(config.yml)
 >
-> ![](C:\Users\Administrator\Music\SystemControl\测试图\3.png)
+> ![](http://offsnow.top:40146/TestPhoto/3.png)
 
 
 
@@ -32,7 +32,7 @@
 >
 > When you ready start "Receving End.jar",It can down in operation folder creates a Configuration File.
 >
-> ![](C:\Users\Administrator\Music\SystemControl\测试图\4.png)
+> ![](http://offsnow.top:40146/TestPhoto/4.png)
 
 ### Funcation List
 
@@ -60,9 +60,9 @@
 
 ## TestResults
 
-![1](C:\Users\Administrator\Music\SystemControl\测试图\1.png)
+![](http://offsnow.top:40146/TestPhoto/1.png)
 
-![2](C:\Users\Administrator\Music\SystemControl\测试图\2.png)
+![](http://offsnow.top:40146/TestPhoto/2.png)
 
 > When you send "[指令]SystemCommand",MinraiBot can help you automatic transfer to receiving end and it execute SystemCommand.
 >
