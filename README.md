@@ -56,7 +56,29 @@
 >
 > > 播放，暂停、音量增大、音量减小、喜欢歌曲、歌词显示、上一首歌、下一首歌
 
+### What Is HearBeat detection?
 
+> HeartBeat detection:
+>
+> 作用:
+>
+> Firstly,HeartBeat detection usually is used for that network detection connects circumstance.	
+>
+> 首先,心跳检测经常用于网络检测连接情况。
+>
+> Secondly,Becuase of Network transmitting maybe can happen interrupted So for user guarantees That It very well experiences,HeartBeat detection is used for that Information channe connects  detection -- If some Object interrupted, immediately ready anew conneact.
+>
+> 其次,由于网络传输可能会出现中断的情况，所以为了保证用户体验良好，心跳检测用于通道连接检测 -- 一旦某一方挂掉了，就马上准备进行重连。 
+>
+> 原理:
+>
+> Sending End Can Give Receiving End Every Ten seconds That send a Empty Data Packet That will has Finished HeartBeat detection. If while sending throws The SocketException So illustrate Receiving end interrupted And Immediately anew create an Instantiation Socket Object That establish connection。
+>
+> 发送端会给接收端每10s为一个周期发送一个空包完成心跳检测。如果发送中抛出了异常说明接收端断开，然后立即重新创建一个实例化套接字对象来建立连接。
+>
+> Receiving End As Can Give Sending End Every Ten seconds That send a Empty Data Packet That will has Finished HeartBeat detection. If while sending also throws The SocketException So illustrate Sending End interrupted And anew ready wait that Sending End connects.
+>
+> 接收端同样会给发送端每10s为一个周期发送一个空包完成心跳检测，如果发送中也抛出了异常说明发收端断开，然后重新准备等待发送端连接。
 
 ## TestResults
 
@@ -82,7 +104,7 @@
 
 > I can't want to closing my computer  because too lazy can't get up. -- Maybe is so~~
 
-### Contact way
+## Contact way
 
 > My email: hjqy.xy@foxmail.com
 >
